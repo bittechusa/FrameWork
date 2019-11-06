@@ -1,0 +1,6 @@
+2019-10-31 19:24:30,192 INFO  [BaseTest] log file initialized 
+2019-10-31 19:24:30,194 INFO  [BaseTest] logger instance initialized 
+2019-10-31 19:24:30,197 INFO  [BaseTest] property file initialized 
+2019-10-31 19:25:08,356 INFO  [BaseTest] log file initialized 
+2019-10-31 19:25:08,358 INFO  [BaseTest] logger instance initialized 
+2019-10-31 19:25:08,361 INFO  [BaseTest] property file initialized 
