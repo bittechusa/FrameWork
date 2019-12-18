@@ -4,3 +4,32 @@
 2019-10-31 19:25:08,356 INFO  [BaseTest] log file initialized 
 2019-10-31 19:25:08,358 INFO  [BaseTest] logger instance initialized 
 2019-10-31 19:25:08,361 INFO  [BaseTest] property file initialized 
+2019-11-07 18:54:55,293 INFO  [BaseTest] log file initialized 
+2019-11-07 18:54:55,294 INFO  [BaseTest] logger instance initialized 
+2019-11-07 18:54:55,306 INFO  [BaseTest] property file initialized 
+2019-11-07 18:56:46,275 INFO  [BaseTest] log file initialized 
+2019-11-07 18:56:46,277 INFO  [BaseTest] logger instance initialized 
+2019-11-07 18:56:46,280 INFO  [BaseTest] property file initialized 
+2019-11-07 18:59:21,873 INFO  [BaseTest] log file initialized 
+2019-11-07 18:59:21,875 INFO  [BaseTest] logger instance initialized 
+2019-11-07 18:59:21,879 INFO  [BaseTest] property file initialized 
+2019-11-07 19:01:19,162 INFO  [BaseTest] log file initialized 
+2019-11-07 19:01:19,164 INFO  [BaseTest] logger instance initialized 
+2019-11-07 19:01:19,167 INFO  [BaseTest] property file initialized 
+2019-11-07 19:04:03,844 INFO  [BaseTest] log file initialized 
+2019-11-07 19:04:03,845 INFO  [BaseTest] logger instance initialized 
+2019-11-07 19:04:03,849 INFO  [BaseTest] property file initialized 
+2019-11-07 19:06:06,753 INFO  [BaseTest] log file initialized 
+2019-11-07 19:06:06,755 INFO  [BaseTest] logger instance initialized 
+2019-11-07 19:06:06,759 INFO  [BaseTest] property file initialized 
+2019-11-07 19:08:15,579 INFO  [BaseTest] log file initialized 
+2019-11-07 19:08:15,581 INFO  [BaseTest] logger instance initialized 
+2019-11-07 19:08:15,585 INFO  [BaseTest] property file initialized 
+2019-11-07 19:09:03,034 INFO  [BaseTest] log file initialized 
+2019-11-07 19:09:03,036 INFO  [BaseTest] logger instance initialized 
+2019-11-07 19:09:03,039 INFO  [BaseTest] property file initialized 
+2019-11-07 19:11:05,386 INFO  [BaseTest] log file initialized 
+2019-11-07 19:11:05,388 INFO  [BaseTest] logger instance initialized 
+2019-11-07 19:11:05,391 INFO  [BaseTest] property file initialized 
+2019-11-07 20:05:11,519 FATAL [SmokeTest] fatal 
+2019-11-07 20:05:11,533 ERROR [SmokeTest] error 
